@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227456918463",
+    "project_id": "gomakerfinalapp",
+    "storage_bucket": "gomakerfinalapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227456918463:android:89d1ee86d07028fccbb70a",
+        "android_client_info": {
+          "package_name": "com.gomakersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWVNdgnPDQne5653Dq-i7awoZFr3QafWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
